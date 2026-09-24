@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+**This is my first time to come github !!!remember today---2026/09/24!! Let's do it**
 <!--
 **ou-fire/ou-fire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
